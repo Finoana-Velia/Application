@@ -1,0 +1,34 @@
+[
+    {
+        "id" : 0,
+        "image" : "../Image/soda.png",
+        "nom" : "soda",
+        "prix" : 20,
+        "quantite" : 3,
+        "ingredient" : "Eau gazéifiée ; colorant : E150d ; acidifiants : acide phosphorique, citrate de sodium ; édulcorants : aspartame, acésulfame-K ; arômes naturels (extraits végétaux), dont caféine. Contient une source de phénylalanine. "
+    },
+    {
+        "id" : 1,
+        "nom": "yaourt",
+        "image" : "../Image/yaourt.jpg",
+        "prix" : 5,
+        "quantite" : 20,
+        "ingredient" : "lait (entier et cru de préférence) , Sucre, fruit,pointe de couteau de grains de vanille "
+    },
+    {
+        "id" : 2,
+        "image" : "../Image/chips.jpg",
+        "nom" : "chips",
+        "prix" : 2,
+        "quantite" : 50,
+        "ingredient" : "100% Pomme de terre BIO, Huile de friture , sel fin"
+    },
+    {
+        "id" : 3,
+        "image" : "../Image/savon.jpg",
+        "nom" : "Savon",
+        "prix" : 1,
+        "quantite" : 30,
+        "ingredient" : "AQUA, SODIUM LAURETH, SUDIUM CHLORIDE , GLYCERIN,..."
+}
+]
